@@ -8,6 +8,8 @@ Beta version now avaiable download
 
 release v0.0.1
 
+download link: https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.1
+
 # “ The Spotlight replacement you’ve waiting for ”
 
 - Quick Lancher for apps
