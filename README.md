@@ -1,6 +1,14 @@
+# KoppieOS Document
+
+# “KoppieOS, the best AI copilot you'll ever need.”
+
 ## versions
 
-beta version
+Beta version now avaiable download
+
+release v0.0.1
+
+# “ The Spotlight replacement you’ve waiting for ”
 
 - Quick Lancher for apps
 - Quick Ask for LLM(GPT/Default)
@@ -9,6 +17,10 @@ beta version
 - Support English/Chinese
 
 Team 
+
+USA, HK , Shenzhen
+
+waiting for who want to build the best ai copilot and aios
 
 [Koppie.ai](http://Koppie.ai) company
 
