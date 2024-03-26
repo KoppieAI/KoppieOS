@@ -24,6 +24,76 @@
 
 - Desktop Sticky Notes
 
+### [Release [v0.0.3]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.3)
+## "use GPT4 and build your ai libarary"
+### Feature
+
+- Add new version detection and update (can also check for updates in the settings)
+
+- Add shortcut key binding
+
+- Add the ability to save bookmark content
+
+- Add AI content management and editing interface
+
+
+
+- Optimize dialogue operations, add model information, credit deduction information, and quick operations, etc.
+
+- Add paid subscription and cancellation capabilities
+
+
+
+- Add a system message panel - provides more timely AI information to everyone
+
+- Add GPT4
+
+- Add feedback button and feedback platform jump - welcome everyone to discuss and provide feedback actively
+
+### Bug Fixed:
+
+- Optimize dragging window, now can edit chat size
+
+- Optimize timeout, internet connection error prompts
+
+- Optimize credit deduction display
+
+- Fix bookmark drag-and-drop style issue
+
+- Optimize model selection display, clearer for Standard, GPT3.5, GPT4, etc.
+
+### Feature
+
+- 增加新版本检测与更新（亦可以在setting里面检测更新）
+
+- 增加快捷键绑定
+
+- 增加书签内容保存的能力
+
+- 增加ai内容管理与编辑界面
+
+- 优化对话操作，增加模型信息，额度扣除信息，快捷操作等
+
+- 增加付费订阅与取消能力
+
+- 增加系统消息面板-能够为大家提供更及时的ai信息
+
+- 增加GPT4
+
+- 增加反馈按钮与反馈平台跳跃 欢迎大家踊跃讨论和反馈
+
+### Bug Fixed:
+
+- 优化拖动窗口，现在可以编辑聊天大小
+
+- 优化超时，断网等错误提示
+
+- 优化credit扣除显示
+
+- 修复书签拖拽样式问题
+
+- 优化模型选择显示，为标准，gpt3.5,gpt4等更清晰
+
 ---
 
 Thank you to all our users for your support; your feedback is the driving force behind our continuous progress. We will keep working hard to bring you more excellent features and experiences.
