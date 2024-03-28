@@ -1,6 +1,6 @@
 # KoppieOS Document
 
-## “KoppieOS, the best AI copilot you'll ever need.”
+## [“KoppieOS, the best AI copilot you'll ever need.”](https://koppieos.koppie.ai/)
 
 ## Versions
 
