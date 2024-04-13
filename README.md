@@ -4,25 +4,12 @@
 
 ## Versions
 
-### [Release [v0.0.1]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.1)
+### [Release [v0.0.4]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.4)
+## "Enhance LLM with web search. Customize your shortcuts."
+### Feature
 
-## “ The Spotlight replacement you’ve waiting for ”
-
-- Quick Lancher for apps
-- Quick Ask for LLM(GPT/Default)
-- HighLight for Code
-- 1 free credit (many tokens for many times ask)
-- Support English/Chinese
-
-### [Release [v0.0.2]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.2)
-
-## “Mac Support. More than Ask: Note it.”
-
-- Full Support for Mac Operating System
-
-- Sidebar Dragging and Resizing
-
-- Desktop Sticky Notes
+- All the LLMs in KoppieOS now can do web searching.(Open *Settings*, click *Ai* Tab and turn on *Web Search*)
+- Now you can customize your app launch shortcuts.(Open *Settings*, click *Launcher* and edit *Alias*)
 
 ### [Release [v0.0.3]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.3)
 ## "use GPT4 and build your ai libarary"
@@ -93,6 +80,26 @@
 - 修复书签拖拽样式问题
 
 - 优化模型选择显示，为标准，gpt3.5，gpt4。展示更清晰
+
+### [Release [v0.0.2]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.2)
+
+## “Mac Support. More than Ask: Note it.”
+
+- Full Support for Mac Operating System
+
+- Sidebar Dragging and Resizing
+
+- Desktop Sticky Notes
+
+### [Release [v0.0.1]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.1)
+
+## “ The Spotlight replacement you’ve waiting for ”
+
+- Quick Lancher for apps
+- Quick Ask for LLM(GPT/Default)
+- HighLight for Code
+- 1 free credit (many tokens for many times ask)
+- Support English/Chinese
 
 ---
 
