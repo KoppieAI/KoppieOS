@@ -8,7 +8,7 @@
 ## "Local LLM: Privacy and Offline"
 ### Feature
 
-- Integrate OLLAMA into KoppieOS. Turn on *Local Model* to access these local LLM(like LlamA 3)
+- Integrate [OLLAMA](https://ollama.com/) into KoppieOS. Turn on *Local Model* to access these local LLM(like LlamA 3)
 - Optimize UI in SideBar.
 
 ### [Release [v0.0.4]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.4)
