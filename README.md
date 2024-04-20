@@ -4,6 +4,13 @@
 
 ## Versions
 
+### [Release [v0.0.5]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.5)
+## "Local LLM: Privacy and Offline"
+### Feature
+
+- Integrate OLLAMA into KoppieOS. Turn on *Local Model* to access these local LLM(like LlamA 3)
+- Optimize UI in SideBar.
+
 ### [Release [v0.0.4]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.4)
 ## "Enhance LLM with web search. Customize your shortcuts."
 ### Feature
