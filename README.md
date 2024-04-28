@@ -4,6 +4,19 @@
 
 ## Versions
 
+### [Release [v0.0.6]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.6)
+## "Your Personalized Desktop"
+### Feature
+
+- **QuickBar Interface Refresh**. We've completely revamped the interface of QuickBar, now featuring a more intuitive and sleek design to enhance your productivity and ease of use.
+- **AI Desktop Avatar Coming (Beta)**. The AI Desktop Avatar has been updated with new capabilities and animations, providing a more interactive and personalized desktop experience.
+- **AI Desktop Wallpaper Coming (Beta)**. Our AI-powered desktop wallpaper has also been refreshed, featuring dynamic backgrounds that adapt to your preferences and system settings.
+
+### 特性
+- **QuickBar 界面更新**. 我们对 QuickBar 的界面进行了全面的美化，现在具有更直观且时尚的设计，以增强您的生产力和使用便捷性。
+- **AI 桌面 Avatar 更新（测试版）**. AI 桌面 Avatar 已进行更新，增加了新的功能和动画，提供了更互动和个性化的桌面体验。
+- **AI 桌面壁纸更新（测试版）**. 我们的 AI 桌面壁纸也进行了更新，现在提供动态背景，能够适应您的偏好和系统设置。
+
 ### [Release [v0.0.5]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.5)
 ## "Local LLM: Privacy and Offline"
 ### Feature
@@ -11,12 +24,22 @@
 - Integrate [OLLAMA](https://ollama.com/) into KoppieOS. Turn on *Local Model* to access these local LLM(like LlamA 3)
 - Optimize UI in SideBar.
 
+### 特性
+
+- 集成[OLLAMA](https://ollama.com/)到KoppieOS中. 通过 *本地模型* 的开关开启Local LLM的使用
+- 优化SideBar的UI
+
 ### [Release [v0.0.4]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.4)
 ## "Enhance LLM with web search. Customize your shortcuts."
 ### Feature
 
 - All the LLMs in KoppieOS now can do web searching.(Open *Settings*, click *Ai* Tab and turn on *Web Search*)
 - Now you can customize your app launch shortcuts.(Open *Settings*, click *Launcher* and edit *Alias*)
+
+### 特性
+
+- 在KoppieOS中的所有LLM都具备网络搜索的能力
+- 现在你可以自定义app lanuch中每个app的名字
 
 ### [Release [v0.0.3]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.3)
 ## "use GPT4 and build your ai libarary"
@@ -56,7 +79,7 @@
 
 - Optimize model selection display, clearer for Standard, GPT3.5, GPT4, etc.
 
-### Feature
+### 特性
 
 - 增加新版本检测与更新（亦可以在setting里面检测更新）
 
@@ -76,7 +99,7 @@
 
 - 增加反馈按钮与反馈平台跳跃 欢迎大家踊跃讨论和反馈
 
-### Bug Fixed:
+### Bug修复
 
 - 优化拖动窗口，现在可以编辑聊天大小
 
