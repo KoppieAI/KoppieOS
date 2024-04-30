@@ -4,6 +4,15 @@
 
 ## Versions
 
+### [Release [v0.0.7]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.7)
+## "Your Avatar Can Hear and Say Better Than Ever"
+We're excited to announce the latest updates to KoppieOS, enhancing your interaction with your desktop AI assistant with improved audio recognition and speech capabilities. Here’s what’s new in this release:
+### Feature
+
+- **Enhanced ASR Model**. Our Automatic Speech Recognition (ASR) model has been upgraded to better understand and transcribe your spoken commands and queries with higher accuracy and speed. Experience smoother and more reliable voice interactions, even in noisy environments.
+- **Advanced TTS Model**. We've improved our Text-to-Speech (TTS) engine to deliver clearer, more natural-sounding speech. Enjoy enhanced intonation and emotion in responses, making your AI interactions feel more lifelike.
+- **Optimized Launcher Performance**. The KoppieOS launcher has been refined for speed and efficiency. Launch your applications and access your settings faster than ever, with reduced load times and smoother transitions.
+
 ### [Release [v0.0.6]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.6)
 ## "Your Personalized Desktop"
 ### Feature
