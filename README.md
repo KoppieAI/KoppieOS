@@ -3,7 +3,13 @@
 ## [“KoppieOS, the best AI copilot you'll ever need.”](https://koppieos.koppie.ai/)
 
 ## Versions
+### [Release [v0.0.8]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.8)
+## "Exciting New User Onboarding"
+### Feature
 
+- **Brand New Onboarding**. We re-design our onboarding page.
+- **Google Gemini Enabled**. Google Gemini pro is integrated into KoppieOS.
+  
 ### [Release [v0.0.7]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.7)
 ## "Your Avatar Can Hear and Say Better Than Ever"
 We're excited to announce the latest updates to KoppieOS, enhancing your interaction with your desktop AI assistant with improved audio recognition and speech capabilities. Here’s what’s new in this release:
