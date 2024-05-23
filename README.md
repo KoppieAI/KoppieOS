@@ -3,6 +3,32 @@
 ## [“KoppieOS, the best AI copilot you'll ever need.”](https://koppieos.koppie.ai/)
 
 ## Versions
+### [Release [v0.0.10]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.10)
+## Features
+
+1. **Language Expansion**: Added support for Japanese.
+2. **More LLM Model**:
+   - 2.1 Gemini-Pro-1.5
+   - 2.2 Gemini-Flash-1.5
+3. **Image-Based Queries**: The ability to select appropriate models to support image-based questions.
+
+## Fixes
+
+1. **Chat Window Display**: Resolved issues with the chat window display for an improved user experience.
+
+
+### [Release [v0.0.9]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.9)
+# Connect to More Models
+
+- DeepSeek Chat
+- DeepSeek Coder
+- Moonshot V1-8K
+- Moonshot V1-32K
+- Moonshot V1-128K
+- Open Mixtral 8x7B
+- Mistral Large Latest
+
+
 ### [Release [v0.0.8]](https://github.com/KoppieAI/KoppieOS/releases/tag/v0.0.8)
 ## "Exciting New User Onboarding"
 ### Feature
