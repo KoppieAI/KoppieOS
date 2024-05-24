@@ -10,7 +10,10 @@
 2. **More LLM Model**:
    - 2.1 Gemini-Pro-1.5
    - 2.2 Gemini-Flash-1.5
-3. **Image-Based Queries**: The ability to select appropriate models to support image-based questions.
+   - 2.3 Claude-3-haiku
+   - 2.4 Claude-3-sonnet
+   - 2.5 Claude-3-opus
+3. **Image-Based Queries**: You can upload images or screenshot and highlight for query.
 
 ## Fixes
 
